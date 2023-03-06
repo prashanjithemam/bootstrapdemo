@@ -19,8 +19,7 @@ We can use 12 columns each of width 1, or use 4 columns each of width 3 or any o
 > Breakpoints are customizable widths that determine how your responsive layout can be adapted across device or viewport sizes in Bootstrap.
 
 <br />
-Bootstrap includes six default breakpoints, sometimes referred to as grid tiers, for building responsively. 
-
+Bootstrap includes six default breakpoints, sometimes referred to as grid tiers, for building responsively. <br />
 
 <br />
 
