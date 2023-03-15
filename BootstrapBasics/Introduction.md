@@ -26,9 +26,9 @@
 ## [Getting Started](notes/GettingStarted.md)
 Get started with Bootstrap. [more>>](/notes/GettingStarted.md)
 
-## [Layout and Grid](Layout/GridSystemandBreakpoints.md)
+## [Layout and Grid](Layout/GridSystem.md)
 
-Bootstrap's grid system uses a series of containers, rows and columns to layout and align content. It's built with flexbox and is fully responsive. [more>>](Layout/GridSystemandBreakpoints.md)
+Bootstrap's grid system uses a series of containers, rows and columns to layout and align content. It's built with flexbox and is fully responsive. [more>>](Layout/GridSystem.md)
 
 ## [Buttons,Glyphicons,Tables](notes/Buttons,Glyphicons,Tables.md)
 <br />
