@@ -1,4 +1,6 @@
 # Bootstrap Grid System
+>Bootstrap’s grid system uses a series of containers, rows, and columns to layout and align content. It’s built with flexbox and is fully responsive.
+
 Bootstrap includes a responsive, fluid grid system that allows upto 12 columns across the page. We can use these 12 columns each of width 1, or use 4 columns each of width 3 or any other combination individually or merge them together for wider columns or all combinations of values summing up to 12 as the
 device or viewport size increases. It includes predefined classes for easy layout options, as well as powerful mixins
 for generating more semantic layouts.
