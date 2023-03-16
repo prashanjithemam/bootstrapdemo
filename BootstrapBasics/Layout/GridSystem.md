@@ -1,5 +1,10 @@
-# Basic Structure of a Bootstrap Grid
- The following is a basic syntax of a Bootstrap Grid:
+# Bootstrap Grid System
+Bootstrap includes a responsive, fluid grid system that allows upto 12 columns across the page. We can use these 12 columns each of width 1, or use 4 columns each of width 3 or any other combination individually or merge them together for wider columns or all combinations of values summing up to 12 as the
+device or viewport size increases. It includes predefined classes for easy layout options, as well as powerful mixins
+for generating more semantic layouts.
+
+<br />
+ The following is a basic structure of a Bootstrap Grid:
 
 ```html
 <div class="row">
@@ -16,10 +21,6 @@
 </div>
 ```
 >First; create a row (\<div class="row">). Then, add the desired number of columns (tags with appropriate .col-*-* classes). Note that numbers in .col-*-* should always add up to 12 for each row.
-
-<br />
-
- Bootstrap Grid System allows upto 12 columns across the page. We can use 12 columns each of width 1, or use 4 columns each of width 3 or any other combination individually or merge them together for wider columns or all combinations of values summing up to 12.
 
 <br/>
 

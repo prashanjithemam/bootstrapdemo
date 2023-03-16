@@ -1,10 +1,10 @@
 ![Bootstrap Logo](https://avatars.githubusercontent.com/u/2918581?s=280&v=4)
 # Introduction to Bootstrap   
 
-* Bootstrap is a powerful, feature-packed frontend toolkit.
-* It is a free and open-source tool collection for creating responsive websites and web applications. 
+* Bootstrap is a sleek, intuitive, and powerful mobile first front-end framework for faster and easier web
+development.
 
-* It is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first websites.
+* It uses HTML, CSS and Javascript. 
 
 * By using this framework we can easily manipulate the styling of any web page like
     1. font style
@@ -13,22 +13,28 @@
     1. flex
     1. grid system etc.
 
+<br />
 
-# Components
->Bootstrap compromises of mainly three componets:   
+### Advantages:
 
-* CSS
-* Fonts
-* Javascript
----
+1.  Easy to get started: With just the knowledge of HTML and CSS anyone can get started with Bootstrap.
+
+1. Responsive design: Bootstrap's responsive CSS adjusts to Desktops,Tablets and Mobiles.
+
+1. Provides a clean and uniform solution for building an interface for developers.
+
+1. It contains beautiful and functional built-in components which are easy to customize.
+
+1.  It also provides web based customization.
+    
+1. It is open source.
+<br />
+
 # Contents
 
-## [Getting Started](notes/GettingStarted.md)
-Get started with Bootstrap. [more>>](/notes/GettingStarted.md)
+## [Grid System](Layout/GridSystem.md)
 
-## [Layout and Grid](Layout/GridSystem.md)
-
-Bootstrap's grid system uses a series of containers, rows and columns to layout and align content. It's built with flexbox and is fully responsive. [more>>](Layout/GridSystem.md)
+Bootstrap's grid system uses a series of containers, rows and columns to layout and align content. It's built with flexbox and is fully responsive. [ read more>>](Layout/GridSystem.md)
 
 ## [Buttons,Glyphicons,Tables](notes/Buttons,Glyphicons,Tables.md)
 <br />
