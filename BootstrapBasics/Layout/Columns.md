@@ -47,21 +47,7 @@ Let’s say we define the attributes for columns as shown below.
 <div class="col-xs-2 col-sm-6 col-md-3 col-lg-5 col-xl-6">
 ```
 ## Output
-* Extra Small
-![xs](../../img/xscolumn.png)
-<br />
-
-* Small
-![sm](../../img/smcolumn.png)
-
-* Medium
-![md](../../img/mdcolumn.png)
-
-* Large
-![lg](../../img/lgcolumn.png)
-
-* Extra Large
-![xs](../../img/xlcolumn.png)
+![colsize](../../img/columnsize_page.jpg)
 
 <br /> 
 
